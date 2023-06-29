@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Exercise_for_EditText</string>
+
+    <string name = "label">201835502 lee jimin</string>
+    <string name = "email_hint">Enter your First and Last Name</string>
+    <string name = "button">Login</string>
+
+</resources>

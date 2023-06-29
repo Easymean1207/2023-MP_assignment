@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TwoColorFragment_201835502_leejimin</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_fragment1">Hello This is fragment #1</string>
+    <string name="hello_fragment2">Hello This is fragment #2</string>
+    <string name = "button">GET TEXT IN FRAGMENT #1</string>
+</resources>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Exercise_for_Menu</string>
+
+    <string name ="coffee_addons">what else in your coffee?</string>
+    <string name ="cream">cream</string>
+    <string name ="sugar">sugar</string>
+    <string name ="pay">cash or credit card?</string>
+
+    <string name = "coffee_type">What type of coffee?</string>
+    <string name = "Decaffeine">Decaffeine</string>
+    <string name = "Espresso">Espresso</string>
+    <string name = "Colombian">Colombian</string>
+
+    <string name = "refresh">Refresh</string>
+    <string name = "search">Search</string>
+    <string name = "settings">Settings</string>
+
+</resources>

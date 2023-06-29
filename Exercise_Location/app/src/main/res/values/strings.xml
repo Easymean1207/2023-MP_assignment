@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Exercise_Location_201835502_leejimin</string>
+    <string name = "myLocation">내 위치:</string>
+    <string name = "showMyLocation">내 위치를 알려줘</string>
+</resources>

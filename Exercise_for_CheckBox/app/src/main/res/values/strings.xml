@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Exercise_for_CheckBox</string>
+
+    <string name ="coffee_addons">what else in your coffee?</string>
+    <string name ="cream">cream</string>
+    <string name ="sugar">sugar</string>
+    <string name ="pay">cash or credit card?</string>
+
+</resources>

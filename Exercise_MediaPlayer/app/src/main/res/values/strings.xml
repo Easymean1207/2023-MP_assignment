@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Exercise_AudioPlayer_201835502_leejimin</string>
+    <string name = "Start">Start</string>
+    <string name = "Stop">Stop</string>
+    <string name = "Pause">Pause</string>
+    <string name = "Restart">Restart</string>
+</resources>

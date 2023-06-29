@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFEB3B">
+
+    <TextView
+        android:id = "@+id/textView_2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="가천대학교 AI*소프트웨어"
+        android:textAlignment="center"
+        android:textSize="34sp"
+        />
+
+    <TextView
+        android:id = "@+id/textView_3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text = "이지민"
+        android:textAlignment="center"
+        android:textSize="34sp"
+        />
+
+    <ImageView
+        android:id = "@+id/imageView_2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src = "@drawable/image"
+        />
+
+</LinearLayout>
